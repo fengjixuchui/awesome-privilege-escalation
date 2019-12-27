@@ -96,6 +96,7 @@ exploits.
  - [PrivEsc](https://github.com/1N3/PrivEsc): A collection of Windows, Linux and MySQL privilege escalation scripts and exploits.
  - [linux-smart-enumeration](https://github.com/diego-treitos/linux-smart-enumeration): Linux enumeration tools for pentesting and CTFs
  - [linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits)
+ - [LinPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS): Linux Privilege Escalation Awesome Script
 
 #### Find CVEs
  - [LPVS](https://github.com/lwindolf/lpvs): Linux Package Vulnerability Scanner for CentOS and Ubuntu.
@@ -169,6 +170,7 @@ exploits.
  - [WinPwnage](https://github.com/rootm0s/WinPwnage): UAC bypass, Elevate, Persistence and Execution methods. The goal of this repo is to study the Windows penetration techniques.
  - [WindowsEnum](https://github.com/absolomb/WindowsEnum): A Powershell Privilege Escalation Enumeration Script.
  - [juicy-potato](https://github.com/ohpe/juicy-potato): A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+ - [winPEAS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/winPEAS): Windows Privilege Escalation Awesome Scripts
 
 ### Presentations
  - [SANS Webcast: Pen Testing with PowerShell - Local Privilege Escalation Techniques](https://www.youtube.com/watch?v=bAnohAiAQ7U)
@@ -185,6 +187,7 @@ exploits.
  - [Metasploit Local Exploit Suggester: Do Less, Get More!](https://blog.rapid7.com/2015/08/11/metasploit-local-exploit-suggester-do-less-get-more/)
  - [Recipe for Root](https://recipeforroot.com/): Your Cookbook for Privilege Escalation
  - [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop)
+ - [Privilege Escalation](https://pentestlab.blog/category/privilege-escalation/): Privilege Escalation category by pentestlab.blog
 
 ## Docker
  - [Container security notes](https://gist.github.com/FrankSpierings/5c79523ba693aaa38bc963083f48456c)
