@@ -20,7 +20,7 @@ A curated list of awesome privilege escalation
     * [Presentations](#presentations-1)
 * [Linux and Windows](#linux-and-windows)
 * [Docker](#docker)
-    * [Docker socks](#docker-socks)
+    * [Docker escape](#docker-escape)
 * [AWS](#aws)
 
 ## Linux
@@ -75,7 +75,7 @@ old-school Unix hacking technique, that will still work in 2013.
  - [An Interesting Privilege Escalation vector (getcap/setcap)](https://nxnjz.net/2018/08/an-interesting-privilege-escalation-vector-getcap/)
 
 ### Tools
- - [LinEnum](https://github.com/rebootuser/LinEnum)
+ - [LinEnum](https://github.com/rebootuser/LinEnum): Scripted local Linux enumeration & privilege escalation checks
  - [pspy](https://github.com/DominicBreuker/pspy): unprivileged Linux process snooping
  - [LES](https://github.com/mzet-/linux-exploit-suggester): LES: Linux privilege escalation auditing tool
  - [Linux_Exploit_Suggester](https://github.com/InteliSecureLabs/Linux_Exploit_Suggester): Linux Exploit Suggester; based on operating system release number.
@@ -110,7 +110,6 @@ exploits.
 ### NFS
  - [Linux Privilege Escalation using Misconfigured NFS](https://www.hackingarticles.in/linux-privilege-escalation-using-misconfigured-nfs/): How to exploit a misconfigured NFS share to gain root access to a remote host machine.
  - [Exploiting a Mis-Configured NFS Share](https://www.computersecuritystudent.com/SECURITY_TOOLS/METASPLOITABLE/EXPLOIT/lesson4/index.html)
- - [BeRoot](https://blog.hackersonlineclub.com/2018/07/beroot-post-exploitation-tool-to-check.html): A Post Exploitation Tool To Check Common Misconfigurations For Windows Linux And Mac OS.
  - [NFS weak permissions](https://touhidshaikh.com/blog/?p=788)
 
 ### Presentations
@@ -196,7 +195,7 @@ exploits.
  - [Hacking Docker the Easy way](https://pt.slideshare.net/BorgHan/hacking-docker-the-easy-way)
  - [Escaping the Whale: Things you probably shouldn’t do with Docker (Part 1)](https://blog.secureideas.com/2018/05/escaping-the-whale-things-you-probably-shouldnt-do-with-docker-part-1.html)
 
-### Docker socks
+### Docker escape
  - [Don't expose the Docker socket (not even to a container)](https://web.archive.org/web/20190623234615/https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
  - [Escaping Containers to Execute Commands on Play with Docker Servers](https://www.bleepingcomputer.com/news/security/escaping-containers-to-execute-commands-on-play-with-docker-servers/)
  - [Dirty COW - (CVE-2016-5195) - Docker Container Escape](https://blog.paranoidsoftware.com/dirty-cow-cve-2016-5195-docker-container-escape/)
